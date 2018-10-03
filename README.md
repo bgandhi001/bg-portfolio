@@ -6,6 +6,7 @@ BG Professional Portfolio. It uses AWS and ReactJS.
 
 Git and GitHub
 SSH
-
-AWS
-Command Used -
+html
+css
+Font awesome
+Google fonts
