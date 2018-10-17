@@ -5,8 +5,8 @@ import ExampleWork from './example-work';
 const myWork = [
   {
     'title': "AWS Cloud Project Example",
-    'href': "https://example.com",
-    'desc': "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    'href': "https://s3.amazonaws.com/portfolio.bhavikgandhi.info/BhavikGandhi_CloudProjectWork.pdf",
+    'desc': "Professional Engineer with over 10+ years of experience ranging across numerous Technology fields such as build release management, software configuration, design, development and cloud implementation, with drive to learn new things",
     'image': {
       'desc': "example screenshot of a project involving code",
       'src': "images/example1.png",
