@@ -25,7 +25,7 @@ const myWork = [
   },
   {
     'title': "Prod-DR Work",
-    'href': "https://example.com",
+    'href': "BhavikGandhi_ProdDRWork.pdf",
     'desc': "Lead the team to Build, Install, Configure & Test the new DR Site. Planed & Performed site failover successfully. Lead the team to Build NFS Servers and migrate data from NetApp to NFS servers. Designed infrastructure to replicate data from Live site to DR site.",
     'image': {
       'desc': "example screenshot of a project involving chemistry",
